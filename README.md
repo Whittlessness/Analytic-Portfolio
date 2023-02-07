@@ -13,7 +13,7 @@ Below are a few projects showcasing coding within R and Python, I also am famila
 * Used the z.score method to search for outliers 
 * Plotted by sector with analysis into specific narratives, inferring on results with special consideration to possible outside influencers
 
-![](https://github.com/Whittlessness/portfolio/blob/main/images/plot_energy.jpg)
+![](/images/plot_energy.jpg)
 
 
 
@@ -26,7 +26,7 @@ Below are a few projects showcasing coding within R and Python, I also am famila
 * Complete single & mutiple regressions models 
 * Conclude on results, affirm on the theory and recommend improving the process by reducing the Margin of Error. 
 
-![](https://github.com/Whittlessness/portfolio/blob/main/images/correlation%20matrix.jpg)
+![](/images/correlation%20matrix.jpg)
 
 ## [Project #3: Python Analysis and ML model build](https://github.com/Whittlessness/Warehouse/blob/main/python%20ML.ipynb)
 * Source a supervised dataset 
@@ -37,4 +37,4 @@ Below are a few projects showcasing coding within R and Python, I also am famila
 
 **The below is the result of the Decision tree Model which was slightly more accurate when predicting the minorities within the data**
 
-![](https://github.com/Whittlessness/portfolio/blob/main/images/DT%20classification%20report%20.jpg)
+![](/images/DT%20classification%20report%20.jpg)
