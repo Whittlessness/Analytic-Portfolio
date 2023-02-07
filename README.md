@@ -13,7 +13,7 @@ Below are a few projects showcasing coding within R and Python, I also am famila
 * Used the z.score method to search for outliers 
 * Plotted by sector with analysis into specific narratives, inferring on results with special consideration to possible outside influencers
 
-![](/Warehouse/blob/main/images/plot_energy.jpg)
+![](https://github.com/Whittlessness/portfolio/blob/main/images/plot_energy.jpg)
 
 
 
