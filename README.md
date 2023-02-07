@@ -26,7 +26,7 @@ Below are a few projects showcasing coding within R and Python, I also am famila
 * Complete single & mutiple regressions models 
 * Conclude on results, affirm on the theory and recommend improving the process by reducing the Margin of Error. 
 
-![](correlation%20matrix.jpg)
+![](https://github.com/Whittlessness/portfolio/blob/main/images/correlation%20matrix.jpg)
 
 ## [Project #3: Python Analysis and ML model build](https://github.com/Whittlessness/Warehouse/blob/main/python%20ML.ipynb)
 * Source a supervised dataset 
