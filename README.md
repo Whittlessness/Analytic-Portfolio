@@ -37,4 +37,4 @@ Below are a few projects showcasing coding within R and Python, I also am famila
 
 **The below is the result of the Decision tree Model which was slightly more accurate when predicting the minorities within the data**
 
-![](./images/DT%20classification%20report%20.jpg)
+![](https://github.com/Whittlessness/portfolio/blob/main/images/DT%20classification%20report%20.jpg)
