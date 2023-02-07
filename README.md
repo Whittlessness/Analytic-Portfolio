@@ -13,7 +13,9 @@ Below are a few projects showcasing coding within R and Python, I also am famila
 * Used the z.score method to search for outliers 
 * Plotted by sector with analysis into specific narratives, inferring on results with special consideration to possible outside influencers
 
-<img src="./images/plot_energy.jpg" alt="">
+![](https://github.com/Whittlessness/Warehouse/blob/main/images/plot_energy.jpg)
+
+
 
 ## [Project #2: Video streamer algorithm analysis; strenghts and weakenesses of current test](https://github.com/Whittlessness/R-warehouse/blob/main/WNW%20report.Rmd)
 * Create a report of current algorithm effectiveness
