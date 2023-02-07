@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science
 Hi my name is Luke,
 
 I believe that the secret to rectifying our errors and creating a better future is within the data the world creates everyday. I aspire to contribute to this revolution, and believe that there is a lot of good business to be done within this new world.
