@@ -39,9 +39,3 @@ Below are a few projects showcasing coding within R and Python, I also am famila
 
 ![](/images/DT_classification_report.jpg)
 
-
-remote_theme: pages-themes/time-machine@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-gem "github-pages", group: :jekyll_plugins
